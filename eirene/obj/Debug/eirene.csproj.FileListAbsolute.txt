@@ -45,3 +45,4 @@ C:\project\eirene\eirene\bin\Debug\System.Memory.xml
 C:\project\eirene\eirene\bin\Debug\System.Numerics.Vectors.xml
 C:\project\eirene\eirene\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\project\eirene\eirene\obj\Debug\eirene.csproj.CopyComplete
+C:\project\eirene\eirene\obj\Debug\Beranda.g.cs
