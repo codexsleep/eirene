@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\project\eirene\eirene\App.xaml
-6816950635
+11-896420593
 
-12299328188
+17-212868708
 32-531361736
-Beranda.xaml;Login.xaml;Myprofile.xaml;Mytest.xaml;MainWindow.xaml;Register.xaml;
+Beranda.xaml;DetailTest.xaml;Login.xaml;Myprofile.xaml;Mytest.xaml;MainWindow.xaml;Pencarian.xaml;PsikologiTest.xaml;question.xaml;Register.xaml;Result.xaml;
 
 True
 
